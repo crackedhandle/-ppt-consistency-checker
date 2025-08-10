@@ -1,0 +1,5 @@
+﻿google-generativeai
+python-pptx
+pdf2image
+pytesseract
+pillow
