@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Load PPT File] --> B[Extract Slide Elements]
     B --> C[Analyze Text Styles]
