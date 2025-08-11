@@ -1,0 +1,12 @@
+graph TD
+    A[Load PPT File] --> B[Extract Slide Elements]
+    B --> C[Analyze Text Styles]
+    B --> D[Check Visual Elements]
+    B --> E[Verify Layout Structure]
+    C --> F[Font Consistency Report]
+    D --> G[Image/Color Report]
+    E --> H[Layout Alignment Report]
+    F --> I[Generate Summary]
+    G --> I
+    H --> I
+    I --> J[Output Results]
